@@ -155,7 +155,7 @@ const Navbar = () => {
               margin: "20px",
               position: "absolute",
               top: "40px",
-              right: "5px",
+              right: "0px",
             }}
           >
             <BsMenuButtonFill
