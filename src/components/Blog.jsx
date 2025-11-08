@@ -17,9 +17,9 @@ const Blog = () => {
                        <img src="https://thumbs.dreamstime.com/b/health-fitness-gym-workout-closeup-drink-food-slim-72401573.jpg" alt=""/>
                         <div class="blog-widget">
                             <div class="bw-date">February 17, 2019</div>
-                            <a href="#" class="tag">#Gym</a>
+                            <a href="/blogdetail/123" class="tag">#Gym</a>
                         </div>
-                        <h4><a href="#">10 States At Risk of Rural Hospital Closures</a></h4>
+                        <h4><a href="/blogdetail/123">10 States At Risk of Rural Hospital Closures</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
@@ -27,9 +27,9 @@ const Blog = () => {
                        <img src="https://1upnutrition.com/cdn/shop/articles/Healthy_Habits_For_Life_9_Tips_For_Better_Fitness_600x400_crop_center.progressive.jpg?v=1633117323" alt=""/>
                         <div class="blog-widget">
                             <div class="bw-date">February 17, 2019</div>
-                            <a href="#" class="tag">#Sport</a>
+                            <a href="/blogdetail/123" class="tag">#Sport</a>
                         </div>
-                        <h4><a href="#">Diver who helped save Thai soccer team</a></h4>
+                        <h4><a href="/blogdetail/123">Diver who helped save Thai soccer team</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
@@ -37,9 +37,9 @@ const Blog = () => {
                        <img src="https://img.freepik.com/premium-photo/exercise-floor-kettlebell-with-bodybuilder-man-gym-weightlifting-workout-routine-fitness-hands-strong-with-male-athlete-holding-weight-sports-club-while-training_590464-193023.jpg" alt=""/>
                         <div class="blog-widget">
                             <div class="bw-date">February 17, 2019</div>
-                            <a href="#" class="tag">#Body</a>
+                            <a href="/blogdetail/123" class="tag">#Body</a>
                         </div>
-                        <h4><a href="#">Man gets life in prison for stabbing</a></h4>
+                        <h4><a href="/blogdetail/123">Man gets life in prison for stabbing</a></h4>
                     </div>
                 </div>
             </div>

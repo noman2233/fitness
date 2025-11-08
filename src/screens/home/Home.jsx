@@ -21,10 +21,10 @@ const Home = () => {
       {/* <ClassSection /> */}
       <Trainer />
       {/* <Testimonial /> */}
-      <Banner />
       <Membership />
-      <Registration />
       <Blog />
+      <Banner />
+      <Registration />
     </div>
   );
 };

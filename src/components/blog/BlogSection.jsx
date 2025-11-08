@@ -10,9 +10,9 @@ const BlogSection = () => {
                         <img src="https://img.freepik.com/premium-photo/happy-woman-fitness-stretching-legs-park-city-healthy-body-flexible-exercise-wellness-sports-start-runner-warm-up-muscle-prepare-workout-training-lose-weight_590464-464968.jpg?semt=ais_hybrid&w=740&q=80" alt=""/>
                         <div class="blog-widget">
                             <div class="bw-date">February 17, 2019</div>
-                            <a href="#" class="tag">#Gym</a>
+                            <a href="/blogdetail/123" class="tag">#Gym</a>
                         </div>
-                        <h4><a href="./blog-details.html">10 States At Risk of Rural Hospital Closures</a></h4>
+                        <h4><a href="blogdetail/123">10 States At Risk of Rural Hospital Closures</a></h4>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
