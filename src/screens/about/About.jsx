@@ -1,15 +1,14 @@
 import React from "react";
 import Banner from "../../components/Banner";
 import Trainer from "../../components/Trainer";
-import FooterBanner from "../../components/FooterBanner";
-import BreadCrumb from "../../components/contact/BreadCrumb";
+ import BreadCrumb from "../../components/about/Breadcrumb";
 import AboutSection from "../../components/about/AboutSection";
 import AboutCounter from "../../components/about/AboutCounter";
 
 const About = () => {
   return (
     <div>
-      <BreadCrumb />
+      <BreadCrumb title="About" />
       <AboutSection />
       <AboutCounter />
       <Trainer />

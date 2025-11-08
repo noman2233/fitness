@@ -1,11 +1,11 @@
 import React from "react";
-import BreadCrumb from "../../components/about/BreadCrumb";
+import BreadCrumb from "../../components/about/Breadcrumb";
 import GalleryImages from "../../components/gallery/Gallery";
 
 const Gallery = () => {
   return (
     <div>
-      <BreadCrumb />
+      <BreadCrumb title="Gallery" />
       <GalleryImages />
     </div>
   );
