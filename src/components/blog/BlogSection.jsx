@@ -7,7 +7,7 @@ const BlogSection = () => {
             <div class="row">
                 <div class="col-lg-4 col-md-6">
                     <div class="single-blog-item">
-                        <img src="img/blog/blog-1.jpg" alt=""/>
+                        <img src="https://img.freepik.com/premium-photo/happy-woman-fitness-stretching-legs-park-city-healthy-body-flexible-exercise-wellness-sports-start-runner-warm-up-muscle-prepare-workout-training-lose-weight_590464-464968.jpg?semt=ais_hybrid&w=740&q=80" alt=""/>
                         <div class="blog-widget">
                             <div class="bw-date">February 17, 2019</div>
                             <a href="#" class="tag">#Gym</a>
@@ -17,7 +17,7 @@ const BlogSection = () => {
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="single-blog-item">
-                        <img src="img/blog/blog-2.jpg" alt=""/>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0lsur3pWgaDOuqY5-pz2HP2x_j16Wha_aIf4rySqjur9DVGwNnfYIrVbqKVN1JbXSiIc&usqp=CAU" alt=""/>
                         <div class="blog-widget">
                             <div class="bw-date">February 17, 2019</div>
                             <a href="#" class="tag">#Sport</a>
@@ -27,7 +27,7 @@ const BlogSection = () => {
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="single-blog-item">
-                        <img src="img/blog/blog-3.jpg" alt=""/>
+                        <img src="https://img.freepik.com/free-photo/view-motivated-teenagers-demonstrate-good-flexibility-lean-feet-stretching-exercises-near-stairs-wear-comfortable-sneakers-training-have-dark-healthy-skin-strong-muscular-body_273609-29357.jpg?semt=ais_hybrid&w=740&q=80" alt=""/>
                         <div class="blog-widget">
                             <div class="bw-date">February 17, 2019</div>
                             <a href="#" class="tag">#Body</a>
@@ -37,7 +37,7 @@ const BlogSection = () => {
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="single-blog-item">
-                        <img src="img/blog/blog-4.jpg" alt="" />
+                        <img src="https://img.freepik.com/free-photo/close-up-person-swimming_23-2151850190.jpg?semt=ais_hybrid&w=740&q=80" alt="" />
                         <div class="blog-widget">
                             <div class="bw-date">February 17, 2019</div>
                             <a href="#" class="tag">#Running</a>
@@ -47,7 +47,7 @@ const BlogSection = () => {
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="single-blog-item">
-                        <img src="img/blog/blog-5.jpg" alt=""/>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYDNB1TeC9JZcO7weHftYRdob98HjswzrrWg&s" alt=""/>
                         <div class="blog-widget">
                             <div class="bw-date">February 17, 2019</div>
                             <a href="#" class="tag">#Gym</a>
@@ -57,7 +57,7 @@ const BlogSection = () => {
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="single-blog-item">
-                        <img src="img/blog/blog-6.jpg" alt=""/>
+                        <img src="https://img.freepik.com/free-photo/sport-news-with-microphones-field_23-2149900283.jpg?semt=ais_hybrid&w=740&q=80" alt=""/>
                         <div class="blog-widget">
                             <div class="bw-date">February 17, 2019</div>
                             <a href="#" class="tag">#Sport</a>
@@ -67,7 +67,7 @@ const BlogSection = () => {
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="single-blog-item">
-                        <img src="img/blog/blog-7.jpg" alt=""/>
+                        <img src="https://img.freepik.com/free-photo/health-check-form-claim-history-record-concept_53876-125624.jpg?semt=ais_hybrid&w=740&q=80" alt=""/>
                         <div class="blog-widget">
                             <div class="bw-date">February 17, 2019</div>
                             <a href="#" class="tag">#Gym</a>
@@ -77,7 +77,7 @@ const BlogSection = () => {
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="single-blog-item">
-                        <img src="img/blog/blog-8.jpg" alt=""/>
+                        <img src="https://img.freepik.com/free-photo/group-doctors-cooperating-while-examining-xray-patient-hopital_637285-11164.jpg?semt=ais_hybrid&w=740&q=80" alt=""/>
                         <div class="blog-widget">
                             <div class="bw-date">February 17, 2019</div>
                             <a href="#" class="tag">#Body</a>
@@ -87,7 +87,7 @@ const BlogSection = () => {
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="single-blog-item">
-                        <img src="img/blog/blog-9.jpg" alt=""/>
+                        <img src="https://img.freepik.com/premium-photo/health-laptop-healthcare-wellness-senior-concept_53876-122326.jpg?semt=ais_hybrid&w=740&q=80" alt=""/>
                         <div class="blog-widget">
                             <div class="bw-date">February 17, 2019</div>
                             <a href="#" class="tag">#Gym</a>

@@ -11,7 +11,7 @@ const ContactForm = () => {
                         <div class="contact-address">
                             <div class="ca-widget">
                                 <div class="cw-icon">
-                                    <img src="img/icon/icon-1.png" alt=""/>
+                                    <img src="https://preview.colorlib.com/theme/gutim/img/icon/icon-1.png" alt=""/>
                                 </div>
                                 <div class="cw-text">
                                     <h5>Our Location</h5>
@@ -20,7 +20,7 @@ const ContactForm = () => {
                             </div>
                             <div class="ca-widget">
                                 <div class="cw-icon">
-                                    <img src="img/icon/icon-2.png" alt=""/>
+                                    <img src="https://preview.colorlib.com/theme/gutim/img/icon/icon-2.png" alt=""/>
                                 </div>
                                 <div class="cw-text">
                                     <h5>Phone:</h5>
@@ -29,7 +29,7 @@ const ContactForm = () => {
                             </div>
                             <div class="ca-widget">
                                 <div class="cw-icon">
-                                    <img src="img/icon/icon-3.png" alt=""/>
+                                    <img src="https://preview.colorlib.com/theme/gutim/img/icon/icon-3.png" alt=""/>
                                 </div>
                                 <div class="cw-text">
                                     <h5>Mail</h5>

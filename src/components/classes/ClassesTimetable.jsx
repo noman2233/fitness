@@ -6,7 +6,7 @@ const ClassesTimetable = () => {
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="section-title">
+                    <div class="section-title my-5">
                         <h2>Class Timetable</h2>
                     </div>
                     <div class="nav-controls">
