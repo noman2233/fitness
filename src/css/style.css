@@ -322,6 +322,9 @@ ul, ol {
 }
 .about-pic img {
 	min-width: 100%;
+	border-radius: 10px;
+		border-radius: 10px;
+
 }
 .about-pic .play-btn {
 	position: absolute;
@@ -353,6 +356,8 @@ ul, ol {
 }
 .about-text img {
 	margin-bottom: 25px;
+		border-radius: 10px;
+
 }
 .about-text .at-author h4 {
 	font-size: 22px;
@@ -383,6 +388,8 @@ ul, ol {
 .services-pic img {
 	height: 660px;
 	min-width: 100%;
+		border-radius: 10px;
+
 }
 .services-item {
 	margin-left: -15px;
@@ -404,6 +411,8 @@ ul, ol {
 	position: absolute;
 	left: 70px;
 	top: 80px;
+		border-radius: 10px;
+
 }
 .services-item h4 {
 	font-size: 22px;
@@ -515,6 +524,8 @@ ul, ol {
 }
 .single-trainer-item img {
 	min-width: 100%;
+		border-radius: 10px;
+
 }
 .single-trainer-item .trainer-text {
 	position: absolute;
@@ -599,6 +610,8 @@ ul, ol {
 }
 .testimonial-slider.owl-carousel .owl-item img {
 	display: inline-block;
+		border-radius: 10px;
+
 }
 .testimonial-slider.owl-carousel .owl-nav button {
 	font-size: 36px;
@@ -634,6 +647,8 @@ ul, ol {
 	width: 120px;
 	height: 120px;
 	border-radius: 50%;
+		border-radius: 10px;
+
 }
 .testimonial-slider .testimonial-item .ti-pic .quote {
 	position: absolute;
@@ -645,6 +660,7 @@ ul, ol {
 	width: auto;
 	height: auto;
 	border-radius: initial;
+
 }
 .testimonial-slider .testimonial-item .ti-author {
 	margin-top: 25px;
@@ -829,6 +845,8 @@ ul, ol {
 }
 .register-pic img {
 	height: 502px;
+		border-radius: 10px;
+
 }
 /*---------------------
   Latest BLog Section
@@ -1253,6 +1271,8 @@ ul, ol {
 .gallery-filter img {
 	min-width: 100%;
 	margin-bottom: 30px;
+		border-radius: 10px;
+
 }
 /*---------------------
   Blog Section
@@ -1267,6 +1287,9 @@ ul, ol {
 .single-blog-item img {
 	min-width: 100%;
 	margin-bottom: 30px;
+	border-radius: 10px;
+
+	
 }
 .single-blog-item .blog-widget {
 	margin-bottom: 10px;
@@ -1331,6 +1354,7 @@ ul, ol {
 .bd-text .bd-pic img {
 	min-width: 100%;
 	margin-bottom: 20px;
+	
 }
 .bd-text .bd-more-text {
 	margin-bottom: 52px;
@@ -1917,7 +1941,14 @@ ul, ol {
 	.services-item img {
 		left: 40px;
 		top: 40px;
+			border-radius: 10px !important;
 	}
+
+
+	.img_border_radius{
+		border-radius: 10px !important;
+	}
+
 	.bd-text .tag-share .tags a {
 		margin-bottom: 5px;
 	}

@@ -23,6 +23,8 @@ const GalleryImages = () => {
               src="https://preview.colorlib.com/theme/gutim/img/gallery/gallery-1.jpg"
               alt=""
                 style={{ borderRadius: "10px" }}
+                className="img_border_radius"
+                
             />
           </div>
           <div class="col-lg-6">
