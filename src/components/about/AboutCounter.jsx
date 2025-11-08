@@ -4,7 +4,8 @@ const AboutCounter = () => {
   return (
     <div class="about-counter">
       <div class="container">
-        <div class="row">
+        <div class="row" data-aos="zoom-out"
+>
           <div class="col-lg-12">
             <div class="about-counter-text d-flex align-item-center justify-content-center">
               <div class="single-counter">

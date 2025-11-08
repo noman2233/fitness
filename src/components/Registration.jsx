@@ -4,7 +4,7 @@ const Registration = () => {
   return (
     <section class="register-section spad">
         <div class="container">
-            <div class="row">
+            <div class="row" data-aos="fade-left">
                 <div class="col-lg-8">
                     <div class="register-text">
                         <div class="section-title">

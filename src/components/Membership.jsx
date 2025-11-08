@@ -11,7 +11,7 @@ const Membership = () => {
                     </div>
                 </div>
             </div>
-            <div class="row">
+            <div class="row" data-aos="fade-right">
                 <div class="col-lg-4">
                     <div class="membership-item">
                         <div class="mi-title">

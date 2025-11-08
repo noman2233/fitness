@@ -2,15 +2,18 @@ import React from "react";
 
 const About = () => {
   return (
-    <section class="about-section spad">
+    <section
+      class="about-section spad"
+      
+    >
       <div class="container">
-        <div class="row">
+        <div class="row" data-aos="fade-up">
           <div class="col-lg-6">
             <div class="about-pic">
               <img
                 src="https://img.freepik.com/free-photo/low-angle-view-unrecognizable-muscular-build-man-preparing-lifting-barbell-health-club_637285-2497.jpg?semt=ais_hybrid&w=740&q=80"
                 alt=""
-                    className="img_border_radius"
+                className="img_border_radius"
               />
               <a
                 href="https://www.youtube.com/watch?v=SlPhMPnQ58k"

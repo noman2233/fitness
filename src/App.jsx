@@ -1,5 +1,10 @@
-import React from "react";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import React, { useEffect } from "react";
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+  useLocation,
+} from "react-router-dom";
 
 import "./App.css";
 import Navbar from "./components/Navbar";
@@ -13,11 +18,38 @@ import Blog from "./screens/blog/Blog";
 import Classes from "./screens/classes/Classes";
 import BlogDetail from "./screens/blog/BlogDetail";
 import ScrollToTop from "./components/ScrollToTop";
+import "aos/dist/aos.css";
+import Aos from "aos";
+import Loader from "./components/Loader";
+function AOSHandler() {
+  const location = useLocation();
 
+  useEffect(() => {
+    // Small timeout to ensure DOM is updated
+    setTimeout(() => {
+      Aos.refresh();
+    }, 100);
+  }, [location.pathname]);
+
+  return null;
+}
 function App() {
+  useEffect(() => {
+    Aos.init({
+      duration: 700,
+      once: true,
+      offset: 200,
+      easing: "ease-in-out",
+      delay: 250,
+      mirror: false, 
+    });
+  }, []);
   return (
     <Router>
       <div className="App">
+        <Loader />
+        <AOSHandler />
+
         <Navbar />
         <ScrollToTop />
         <main className="main-content">

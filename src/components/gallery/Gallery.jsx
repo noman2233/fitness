@@ -18,38 +18,37 @@ const GalleryImages = () => {
           </div>
         </div>
         <div class="row gallery-filter">
-          <div class="col-lg-6 mix all fitness">
+          <div class="col-lg-6 mix all fitness" data-aos="fade-up">
             <img
               src="https://preview.colorlib.com/theme/gutim/img/gallery/gallery-1.jpg"
               alt=""
-                style={{ borderRadius: "10px" }}
-                className="img_border_radius"
-                
+              style={{ borderRadius: "10px" }}
+              className="img_border_radius"
             />
           </div>
           <div class="col-lg-6">
             <div class="row">
-              <div class="col-lg-6 mix all fitness coaching">
+              <div class="col-lg-6 mix all fitness coaching" data-aos="fade-up">
                 <img
                   src="https://preview.colorlib.com/theme/gutim/img/gallery/gallery-2.jpg"
                   alt="/"
-                    style={{ borderRadius: "10px" }}
+                  style={{ borderRadius: "10px" }}
                 />
               </div>
               <div class="col-lg-6">
                 <div class="row">
-                  <div class="col-lg-12 mix all coaching">
+                  <div class="col-lg-12 mix all coaching" data-aos="fade-up">
                     <img
                       src="https://preview.colorlib.com/theme/gutim/img/gallery/gallery-3.jpg"
                       alt=""
-                        style={{ borderRadius: "10px" }}
+                      style={{ borderRadius: "10px" }}
                     />
                   </div>
-                  <div class="col-lg-12 mix all coaching">
+                  <div class="col-lg-12 mix all coaching" data-aos="fade-up">
                     <img
                       src="https://preview.colorlib.com/theme/gutim/img/gallery/gallery-4.jpg"
                       alt=""
-                        style={{ borderRadius: "10px" }}
+                      style={{ borderRadius: "10px" }}
                     />
                   </div>
                 </div>
@@ -58,14 +57,14 @@ const GalleryImages = () => {
           </div>
           <div class="col-lg-6">
             <div class="row">
-              <div class="col-lg-6 mix all other rounded-2">
+              <div class="col-lg-6 mix all other rounded-2" data-aos="fade-up">
                 <img
                   src="https://preview.colorlib.com/theme/gutim/img/gallery/gallery-5.jpg"
-                    style={{ borderRadius: "10px" }}
+                  style={{ borderRadius: "10px" }}
                   alt=""
                 />
               </div>
-              <div class="col-lg-6 mix all other rounded-2">
+              <div class="col-lg-6 mix all other rounded-2" data-aos="fade-up">
                 <img
                   src="https://preview.colorlib.com/theme/gutim/img/gallery/gallery-6.jpg"
                   alt=""
@@ -74,11 +73,11 @@ const GalleryImages = () => {
               </div>
             </div>
           </div>
-          <div class="col-lg-6 mix all event rounded-2">
+          <div class="col-lg-6 mix all event rounded-2" data-aos="fade-up">
             <img
               src="https://preview.colorlib.com/theme/gutim/img/gallery/gallery-7.jpg"
               alt=""
-                style={{ borderRadius: "10px" }}
+              style={{ borderRadius: "10px" }}
             />
           </div>
         </div>

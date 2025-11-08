@@ -11,7 +11,7 @@ const Blog = () => {
             </div>
           </div>
         </div>
-        <div class="row">
+        <div class="row"  data-aos="zoom-in">
           <div class="col-lg-4 col-md-6">
             <div class="single-blog-item">
               <img

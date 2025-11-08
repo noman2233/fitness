@@ -4,7 +4,7 @@ const Services = () => {
   return (
       <section class="services-section">
         <div class="container-fluid">
-            <div class="row">
+            <div class="row" data-aos="fade-up">
                 <div class="col-lg-6">
                     <div class="services-pic">
                         <img src="https://themewagon.github.io/gutim/img/services/service-pic.jpg" alt=""/>

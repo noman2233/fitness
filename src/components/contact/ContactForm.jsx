@@ -4,7 +4,8 @@ const ContactForm = () => {
   return (
      <section class="contact-section spad">
         <div class="container">
-            <div class="row">
+            <div class="row" data-aos="fade-down" 
+>
                 <div class="col-lg-4">
                     <div class="contact-info">
                         <h4>Contacts Us</h4>

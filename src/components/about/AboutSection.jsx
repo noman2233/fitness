@@ -4,7 +4,7 @@ const AboutSection = () => {
   return (
      <section class="about-section about-page spad">
         <div class="container">
-            <div class="row">
+            <div class="row"  data-aos="fade-up">
                 <div class="col-lg-6">
                     <div class="about-pic">
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtzNJlyoiROvSFRBIsnk2cmg-8Togln58OXGDz2rWb6IpWHJXpO838l5YIzDTCdwv7ePY&usqp=CAU" alt=""/>

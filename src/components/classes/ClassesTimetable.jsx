@@ -3,7 +3,7 @@ import React from 'react'
 const ClassesTimetable = () => {
   return (
      <section class="classes-timetable spad">
-        <div class="container">
+        <div class="container"  data-aos="zoom-out">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title my-5">
