@@ -12,12 +12,14 @@ import Gallery from "./screens/gallery/Gallery";
 import Blog from "./screens/blog/Blog";
 import Classes from "./screens/classes/Classes";
 import BlogDetail from "./screens/blog/BlogDetail";
+import ScrollToTop from "./components/ScrollToTop";
 
 function App() {
   return (
     <Router>
       <div className="App">
         <Navbar />
+        <ScrollToTop />
         <main className="main-content">
           <Routes>
             <Route path="/" element={<Home />} />
