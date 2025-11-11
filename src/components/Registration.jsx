@@ -4,8 +4,8 @@ const Registration = () => {
   return (
     <section class="register-section spad">
         <div class="container">
-            <div class="row" data-aos="fade-left">
-                <div class="col-lg-8">
+            <div class="row">
+                <div class="col-lg-8"  data-aos="fade-left">
                     <div class="register-text">
                         <div class="section-title">
                             <h2>Register Now</h2>
@@ -34,7 +34,7 @@ const Registration = () => {
                         </form>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-4"  data-aos="fade-left">
                     <div class="register-pic">
                         <img src="https://themewagon.github.io/gutim/img/register-pic.jpg" alt=""/>
                     </div>

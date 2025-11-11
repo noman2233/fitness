@@ -11,8 +11,8 @@ const Membership = () => {
                     </div>
                 </div>
             </div>
-            <div class="row" data-aos="fade-right">
-                <div class="col-lg-4">
+            <div class="row"  >
+                <div class="col-lg-4"data-aos="fade-right">
                     <div class="membership-item">
                         <div class="mi-title">
                             <h4>Basic</h4>
@@ -40,7 +40,7 @@ const Membership = () => {
                         <a href="#" class="primary-btn membership-btn">Start Now</a>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-4"data-aos="fade-right">
                     <div class="membership-item">
                         <div class="mi-title">
                             <h4>Standard</h4>
@@ -68,7 +68,7 @@ const Membership = () => {
                         <a href="#" class="primary-btn membership-btn">Start Now</a>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-4"data-aos="fade-right">
                     <div class="membership-item">
                         <div class="mi-title">
                             <h4>Premium</h4>

@@ -11,8 +11,8 @@ const Blog = () => {
             </div>
           </div>
         </div>
-        <div class="row"  data-aos="zoom-in">
-          <div class="col-lg-4 col-md-6">
+        <div class="row" >
+          <div class="col-lg-4 col-md-6" data-aos="zoom-in">
             <div class="single-blog-item">
               <img
                 src="https://thumbs.dreamstime.com/b/health-fitness-gym-workout-closeup-drink-food-slim-72401573.jpg"
@@ -31,7 +31,7 @@ const Blog = () => {
               </h4>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-4 col-md-6" data-aos="zoom-in">
             <div class="single-blog-item">
               <img
                 src="https://1upnutrition.com/cdn/shop/articles/Healthy_Habits_For_Life_9_Tips_For_Better_Fitness_600x400_crop_center.progressive.jpg?v=1633117323"
@@ -50,7 +50,7 @@ const Blog = () => {
               </h4>
             </div>
           </div>
-          <div class="col-lg-4 col-md-6">
+          <div class="col-lg-4 col-md-6" data-aos="zoom-in">
             <div class="single-blog-item">
               <img
                 src="https://img.freepik.com/premium-photo/exercise-floor-kettlebell-with-bodybuilder-man-gym-weightlifting-workout-routine-fitness-hands-strong-with-male-athlete-holding-weight-sports-club-while-training_590464-193023.jpg"
