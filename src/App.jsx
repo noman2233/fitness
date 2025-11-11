@@ -47,8 +47,8 @@ function App() {
   return (
     <Router>
       <div className="App">
-        <Loader />
-        <AOSHandler />
+        
+        <AOSHandler/>
 
         <Navbar />
         <ScrollToTop />
